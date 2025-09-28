@@ -143,8 +143,6 @@ The system includes built-in performance counters that track:
 
 ## 🎓 Academic Context
 
-This project was developed as Assignment 4 for PROG20799 - Data Structures & Algorithm Development at Sheridan College, demonstrating:
-
 ### Core Concepts
 - **Algorithm Analysis**: Practical implementation and performance measurement
 - **Data Structure Design**: Efficient storage and retrieval mechanisms
@@ -183,7 +181,7 @@ Time complexity: O(log n)
 
 ## 👤 Author
 
-Steven Mahabir - Sheridan College Student
+Steven Mahabir
 
 ---
 
