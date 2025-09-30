@@ -1,4 +1,4 @@
-# StudentSort - Advanced Database Management with Algorithm Analysis
+# AcademicDB-C - Advanced Database Management with Algorithm Analysis
 
 A C-based student database management system that implements and analyzes multiple sorting and searching algorithms for academic record management.
 
